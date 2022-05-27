@@ -1,0 +1,6 @@
+Posicao inicial [x, y]: [6, 4]
+Orcamento disponivel: 7 segundos
+Saida 0, 4 segundos: cccc
+Saida 1: Nao alcancada!
+Saida 2, 7 segundos: eeeeece
+Saida 3, 4 segundos: eeeb
